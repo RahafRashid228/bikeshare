@@ -20,3 +20,5 @@ Python documentation
 Tutorials Point
 Pandas Documentation
 I used Jupyter Notebook extensively for debugging and quickly running small snippets of codeDetailed explenation for the analysis process
+## Troubleshooting Tips
+Common issues and how to resolve them.
